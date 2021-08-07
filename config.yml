@@ -1,0 +1,7 @@
+prefix: "§e[SAF] §r"
+enable_F: false
+S-F_command:
+- ''
+enable_Q: false
+S-Q_command:
+- ''
