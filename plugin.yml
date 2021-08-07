@@ -1,7 +1,6 @@
 name: ShiftAndF
 main: me.haer0248.saf.Main
-version: 1.0.0
-api-version: 1.16
+version: 1.1.0
 author: Haer0248
 description: Shift and F run command.
 commands:
