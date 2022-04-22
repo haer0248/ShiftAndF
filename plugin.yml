@@ -1,8 +1,9 @@
 name: ShiftAndF
 main: me.haer0248.saf.Main
-version: 1.1.0
-author: Haer0248
-description: Shift and F run command.
+version: 1.2.0
+api-version: 1.16
+author: NekomataOnigiri
+description: Shift and F or Q run command.
 commands:
     saf:
         description: Show about plugin.
