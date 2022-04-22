@@ -42,9 +42,9 @@ public class Main extends JavaPlugin implements Listener {
 
     public boolean onCommand(CommandSender sender, Command cmd, String label, String args[]) {
 		String help = "\n----- §e§lShiftAndF§r -----\n"
-		        + "§6Author: §fSalmonMichael\n"
-		        + "§6Website: §fhttps://fb.com/haer0248\n" 
-		        + "§6Version §f1.1.0"
+		        + "§6Author: §fNekomataOnigiri\n"
+		        + "§6Website: §fhttps://haer0248.me/\n"
+		        + "§6Version §f1.1.0\n"
 				+ "§6Open Source: §fhttps://github.com/haer0248/ShiftAndF"
 		        + "§f\n";
 		if (cmd.getName().equalsIgnoreCase("saf")) {
